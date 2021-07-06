@@ -5,7 +5,7 @@ _The first task is: design a control panel of 6 motors to control the arm_
 
 Tools used for this:
 1. Notepad++
-2. xampp
+2. Xampp
 
 
 ## _content :_
