@@ -1,7 +1,7 @@
 ## **Robot_ARM**
 _I am doing this project to control a robot_
 
-** _The first task**: is design a control panel of 6 motors to control the arm_
+_**The first task**: is design a control panel of 6 motors to control the arm_
 
 Tools used for this:
 1. Notepad++
